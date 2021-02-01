@@ -1,1 +1,1 @@
-just a test for git.
+just a test <remote-promjena> for git.
